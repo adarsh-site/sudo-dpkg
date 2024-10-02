@@ -13,7 +13,8 @@
 - :technologist: `Web Developer` and `Competitive Programmer`
 - :monocle_face: Exploring `Backend Development`
 - :nerd_face: Open for new `opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ZHFQ0J_n-ErRpxyknrhCKOhV-9QMQ2Zw/view?usp=sharing)
-- :ghost: Visit [MY PORTFOLIO](https://jinxvi-portfolio.vercel.app)
+
+<!-- - :ghost: Visit [MY PORTFOLIO](https://jinxvi-portfolio.vercel.app) -->
 
 ## <h2>Connect with me <img src = "https://media.giphy.com/media/DUPJKY0WIbUqYhvW5a/giphy.gif" width = 30px> </h2> 
 
