@@ -9,7 +9,7 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="18%"/>
 
-- :school: `Junior` in [Information Technology](https://sites.google.com/view/iem-it) at [IEM, Kolkata](https://iem.edu.in/)
+- :school: `Senior` in [Information Technology](https://sites.google.com/view/iem-it) at [IEM, Kolkata](https://iem.edu.in/)
 - :technologist: `Web Developer` and `Competitive Programmer`
 - :monocle_face: Exploring `Backend Development`
 - :nerd_face: Open for new `opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ZHFQ0J_n-ErRpxyknrhCKOhV-9QMQ2Zw/view?usp=sharing)
