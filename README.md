@@ -10,11 +10,9 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="18%"/>
 
 - :school: `Senior` in [Information Technology](https://sites.google.com/view/iem-it) at [IEM, Kolkata](https://iem.edu.in/)
-- :technologist: `Web Developer` and `Competitive Programmer`
-- :monocle_face: Exploring `Backend Development`
-- :nerd_face: Open for new `opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1ZHFQ0J_n-ErRpxyknrhCKOhV-9QMQ2Zw/view?usp=sharing)
-
-<!-- - :ghost: Visit [MY PORTFOLIO](https://jinxvi-portfolio.vercel.app) -->
+- :technologist: `Web Developer` and 🤖`Competitive Programmer`
+- 🔍 Exploring `Backend Development` | 🚀`Open to new opportunities`
+- 📄 [MY RESUME](https://drive.google.com/file/d/1ZHFQ0J_n-ErRpxyknrhCKOhV-9QMQ2Zw/view?usp=sharing)
 
 ## <h2>Connect with me <img src = "https://media.giphy.com/media/DUPJKY0WIbUqYhvW5a/giphy.gif" width = 30px> </h2> 
 
