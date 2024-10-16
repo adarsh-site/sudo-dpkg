@@ -7,10 +7,9 @@
 
 ## <h2>About me <img src = "https://media.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif" width = 40px> </h2>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="18%"/>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="15%"/>
 
-- :school: `Senior` in [Information Technology](https://sites.google.com/view/iem-it) at [IEM, Kolkata](https://iem.edu.in/)
-- :technologist: `Web Developer` and 🤖`Competitive Programmer`
+- 🧑‍💻`Competitive Programmer`
 - 🔍 Exploring `Backend Development`
 - 🚀`Open to new opportunities`
 - 📄 [MY RESUME](https://drive.google.com/file/d/1ZHFQ0J_n-ErRpxyknrhCKOhV-9QMQ2Zw/view?usp=sharing)
@@ -27,7 +26,7 @@
 
 ## Languages and Tools 🛠️
 
-<p align="center"> <a href="https://github.com/jinx-vi-0"><img src="https://skillicons.dev/icons?i=html,css,js,git,github,nodejs,npm,postman,express,mysql,mongodb,firebase,vite,powershell"> </a> </p>
+<p align="center"> <a href="https://github.com/jinx-vi-0"><img src="https://skillicons.dev/icons?i=html,css,js,git,github,nodejs,npm,postman,express,mysql,mongodb,firebase,vite,tailwind,powershell"> </a> </p>
 <p align="center"> <a href="https://github.com/jinx-vi-0"><img src="https://skillicons.dev/icons?i=cpp,java,c,sublime,vscode,idea,replit,codepen,netlify,vercel,bots,notion,stackoverflow,windows,ubuntu"> </a> </p>
 
 ---
