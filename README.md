@@ -1,19 +1,3 @@
-<!--
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=100&color=F75252&center=true&vCenter=true&width=300&lines=Programmer;Developer;Otaku" alt="Typing SVG" /></a>
-</p>
--->
-
-
-## <h2>About me <img src = "https://media.giphy.com/media/k76eCxLAYwyjyFXClf/giphy.gif" width = 40px> </h2>
-
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="15%"/>
-
-- 🧑‍💻`Competitive Programmer`
-- 🔍 Exploring `Backend Development`
-- 🚀`Open to new opportunities`
-- 📄 [MY RESUME](https://drive.google.com/file/d/1ZHFQ0J_n-ErRpxyknrhCKOhV-9QMQ2Zw/view?usp=sharing)
-
 ## <h2>Connect with me <img src = "https://media.giphy.com/media/DUPJKY0WIbUqYhvW5a/giphy.gif" width = 30px> </h2> 
 
 <p align="center">
@@ -49,11 +33,20 @@
 
 </p>
 
+<details>
+<summary>
+	
 ## Badges 📛
+
+</summary>
+<br>
 
 <p align="center">
 	<img src="https://holopin.me/jinxvi0" alt="An image of @jinxvi0's Holopin badges" style="width: 800px;"/>
 </p>
+
+</details>
+
 
 <!-- 
 ## GSSOC(24) Badges 🪶
