@@ -3,9 +3,9 @@
 <p align="center">
 	<a href="mailto:adarsh.dev.404@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
 	<a href="https://www.linkedin.com/in/jinx-vi/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-	<a href="https://github.com/jinx-vi-0"><img src="https://skillicons.dev/icons?i=github"></a>
-	<a href="https://discord.com/users/jinx.vi#6738"><img src="https://skillicons.dev/icons?i=discord"></a>
-	<a href="https://twitter.com/_jinx_vi_"><img src="https://skillicons.dev/icons?i=twitter"></a>
+	<a href="https://github.com/sudo-dpkg"><img src="https://skillicons.dev/icons?i=github"></a>
+	<a href="https://discord.com/users/sudo.apt#6738"><img src="https://skillicons.dev/icons?i=discord"></a>
+	<a href="https://x.com/sudo_dpkg"><img src="https://skillicons.dev/icons?i=twitter"></a>
 </p>
 
 ## Languages and Tools 🛠️
