@@ -3,7 +3,7 @@
 <p align="center">
 	<a href="mailto:adarsh.dev.404@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
 	<a href="https://www.linkedin.com/in/adarsh1601/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-	<a href="https://github.com/sudo-dpkg"><img src="https://skillicons.dev/icons?i=github"></a>
+	<a href="https://github.com/adarsh-site"><img src="https://skillicons.dev/icons?i=github"></a>
 	<a href="https://discord.com/users/sudo.apt#6738"><img src="https://skillicons.dev/icons?i=discord"></a>
 	<a href="https://x.com/sudo_dpkg"><img src="https://skillicons.dev/icons?i=twitter"></a>
 </p>
@@ -27,9 +27,9 @@
 <!--	<img src="https://stats.quira.sh/jinx-vi/github?theme=dark" height="250px"/>
 	<img src="https://stats.quira.sh/jinx-vi/languages-over-time?theme=dark" height="250px"/> -->
 	
-<img src="https://github-readme-stats.vercel.app/api?username=sudo-dpkg&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="sudo-dpkg" />
+<img src="https://github-readme-stats.vercel.app/api?username=adarsh-site&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="adarsh-site" />
 <!-- <img src="https://github-readme-streak-stats-swart-eight.vercel.app?user=jinx-vi-0&theme=dracula&hide_border=true" alt="jinx-vi-0" /> -->
-<img src="https://github-readme-stats-snowy-kappa-41.vercel.app//api/top-langs?username=sudo-dpkg&layout=donut&theme=dracula&hide_border=true" alt="sudo-dpkg" height="195px"/>
+<img src="https://github-readme-stats-snowy-kappa-41.vercel.app//api/top-langs?username=adarsh-site&layout=donut&theme=dracula&hide_border=true" alt="adarsh-site" height="195px"/>
 
 </p>
 
